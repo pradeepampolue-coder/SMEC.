@@ -1,0 +1,7 @@
+{
+  "name": "SMEC ECE Connect",
+  "description": "A collaborative portal for St. Martin's Engineering College ECE students to manage timetables and share lab resources like aprons using AI-powered availability matching.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
